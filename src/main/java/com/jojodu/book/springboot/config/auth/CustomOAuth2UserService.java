@@ -1,7 +1,7 @@
-package com.jojodu.book.springboot.cofig.auth;
+package com.jojodu.book.springboot.config.auth;
 
-import com.jojodu.book.springboot.cofig.auth.dto.OAuthAttributes;
-import com.jojodu.book.springboot.cofig.auth.dto.SessionUser;
+import com.jojodu.book.springboot.config.auth.dto.OAuthAttributes;
+import com.jojodu.book.springboot.config.auth.dto.SessionUser;
 import com.jojodu.book.springboot.domain.user.User;
 import com.jojodu.book.springboot.domain.user.UserRepository;
 import lombok.RequiredArgsConstructor;

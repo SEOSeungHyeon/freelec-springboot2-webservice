@@ -1,4 +1,4 @@
-package com.jojodu.book.springboot.cofig.auth.dto;
+package com.jojodu.book.springboot.config.auth.dto;
 
 import com.jojodu.book.springboot.domain.user.Role;
 import com.jojodu.book.springboot.domain.user.User;

@@ -1,4 +1,4 @@
-package com.jojodu.book.springboot.cofig.auth;
+package com.jojodu.book.springboot.config.auth;
 
 import com.jojodu.book.springboot.domain.user.Role;
 import lombok.RequiredArgsConstructor;
